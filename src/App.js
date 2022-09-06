@@ -12,7 +12,7 @@ function App() {
       {/* <HookCounter></HookCounter> */}
       {/* <HookCounterTwo></HookCounterTwo> */}
       {/* <HookCounterThree></HookCounterThree> */}
-      <HookCounterFour></HookCounterFour>
+      {/* <HookCounterFour></HookCounterFour> */}
     </div>
   );
 }
