@@ -1,4 +1,6 @@
 import './App.css';
+import ClassCounterOne from './components/useEffect/ClassCounterOne';
+import HookCounterOne from './components/useEffect/HookCounterOne';
 import ClassCounter from './components/useState/ClassCounter';
 import HookCounter from './components/useState/HookCounter';
 import HookCounterFour from './components/useState/HookCounterFour';
@@ -13,6 +15,9 @@ function App() {
       {/* <HookCounterTwo></HookCounterTwo> */}
       {/* <HookCounterThree></HookCounterThree> */}
       {/* <HookCounterFour></HookCounterFour> */}
+
+      {/* <ClassCounterOne></ClassCounterOne> */}
+      <HookCounterOne></HookCounterOne>
     </div>
   );
 }
